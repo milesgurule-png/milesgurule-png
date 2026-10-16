@@ -20,6 +20,9 @@
 ### 📚 Currently learning
 AI agent design · 3D graphics with Three.js · unit economics · psychology of persuasion (the ethical kind)
 
+### 📝 Devlog
+What I built, what broke, and what I learned → **[read the devlog](https://milesgurule-png.github.io/forge-showcase/devlog.html)**
+
 ### 🛠 Stack
 `JavaScript` `Node.js` `React` `Three.js` `Python` `Claude agents` `Ollama / MLX` `REST APIs` `DNS & email deliverability` `Obsidian`
 
