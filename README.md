@@ -9,10 +9,11 @@
 - ⚛️ **Vault Atom**: about 500 research notes drawn as one connected 3D atom, with 4,000+ cited links. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/atom.html)**
 - 🤖 **Forge Labs agent team**: 9 specialized AI research agents (historian, psychologist, quant, physicist, venture architect) run by a director agent. Together they've written 1,000+ evidence-rated notes.
 - 📈 **Lead generation & outreach system**: an AI lead-gen agent, website auditing, lead scoring, and cold-email infrastructure at scale.
-- 🧠 **Forge AI**: my own assistant running locally on an open-weight model.
+- 🧠 **[Forge AI](https://github.com/milesgurule-png/forge-ai)**: my own open-source assistant that runs on my laptop and answers from my notes with citations (local RAG, Apache-2.0).
+- ⚛️ **[Vault Atom for Obsidian](https://github.com/milesgurule-png/obsidian-vault-atom)**: an open-source plugin that shows any Obsidian vault as a 3D atom (MIT).
 
 ### 🔨 Currently building
-- **Vault Atom**, an Obsidian plugin that shows your notes as a 3D atom
+- Getting **Vault Atom** into Obsidian's Community Plugins store
 - **A compliance-tech product** in validation (more soon)
 - **Forge AI's "vault brain"**: local RAG over my own research notes
 
