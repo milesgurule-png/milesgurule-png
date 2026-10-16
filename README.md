@@ -2,6 +2,8 @@
 
 **15-year-old builder from Middle Tennessee.** I build AI agent systems, automation and 3D tools, and use them to research and start businesses.
 
+[![Forge Labs Science Lab](https://raw.githubusercontent.com/milesgurule-png/forge-showcase/main/screenshots/science-lab.gif)](https://milesgurule-png.github.io/forge-showcase/lab/)
+
 ### 🚀 What I've built (since May 2026, ~100 hours with AI)
 - 🧪 **Forge Labs Science Lab**: my AI agent team visualized as scientists in a 3D research facility. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/lab/)**
 - ⚛️ **Vault Atom**: about 500 research notes drawn as one connected 3D atom, with 4,000+ cited links. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/atom.html)**
