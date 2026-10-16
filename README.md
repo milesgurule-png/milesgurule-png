@@ -11,6 +11,14 @@
 - 📈 **Lead generation & outreach system**: an AI lead-gen agent, website auditing, lead scoring, and cold-email infrastructure at scale.
 - 🧠 **Forge AI**: my own assistant running locally on an open-weight model.
 
+### 🔨 Currently building
+- **Vault Atom**, an Obsidian plugin that shows your notes as a 3D atom
+- **A compliance-tech product** in validation (more soon)
+- **Forge AI's "vault brain"**: local RAG over my own research notes
+
+### 📚 Currently learning
+AI agent design · 3D graphics with Three.js · unit economics · psychology of persuasion (the ethical kind)
+
 ### 🛠 Stack
 `JavaScript` `Node.js` `React` `Three.js` `Python` `Claude agents` `Ollama / MLX` `REST APIs` `DNS & email deliverability` `Obsidian`
 
