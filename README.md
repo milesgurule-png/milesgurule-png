@@ -5,6 +5,7 @@
 [![Forge Labs Science Lab](https://raw.githubusercontent.com/milesgurule-png/forge-showcase/main/screenshots/science-lab.gif)](https://milesgurule-png.github.io/forge-showcase/lab/)
 
 ### 🚀 What I've built (since May 2026, ~100 hours with AI)
+- 💼 **First client website: The Garrett Company**, a 3rd-generation real estate brokerage in Franklin, TN (est. 1947). It has cinematic Nashville drone video, a self-drawing legacy timeline, a gallery of 21 recent sales, and a typo-tolerant Middle Tennessee search covering 283 ZIPs. → **[Live preview](https://dreamy-sprite-95f102.netlify.app/)**
 - 🧪 **Forge Labs Science Lab**: my AI agent team visualized as scientists in a 3D research facility. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/lab/)**
 - ⚛️ **Vault Atom**: about 500 research notes drawn as one connected 3D atom, with 4,000+ cited links. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/atom.html)**
 - 🤖 **Forge Labs agent team**: 9 specialized AI research agents (historian, psychologist, quant, physicist, venture architect) run by a director agent. Together they've written 1,000+ evidence-rated notes.
@@ -24,7 +25,7 @@ AI agent design · 3D graphics with Three.js · unit economics · psychology of 
 What I built, what broke, and what I learned → **[read the devlog](https://milesgurule-png.github.io/forge-showcase/devlog.html)**
 
 ### 🛠 Stack
-`JavaScript` `Node.js` `React` `Three.js` `Python` `Claude agents` `Ollama / MLX` `REST APIs` `DNS & email deliverability` `Obsidian`
+`JavaScript` `Node.js` `React` `Three.js` `Python` `Claude agents` `Ollama / MLX` `REST APIs` `DNS & email deliverability` `GSAP` `Obsidian`
 
 ### 📫 Contact
 Reach out through GitHub.
