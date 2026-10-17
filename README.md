@@ -13,9 +13,17 @@
 - 🧠 **[Forge AI](https://github.com/milesgurule-png/forge-ai)**: my own open-source assistant that runs on my laptop and answers from my notes with citations (local RAG, Apache-2.0).
 - ⚛️ **[Vault Atom for Obsidian](https://github.com/milesgurule-png/obsidian-vault-atom)**: an open-source plugin that shows any Obsidian vault as a 3D atom (MIT).
 
+### ⭐ Open source (try them, star them, break them)
+| Project | What it does | |
+|---|---|---|
+| [**Vault Atom**](https://github.com/milesgurule-png/obsidian-vault-atom) | Your Obsidian vault as a 3D atom | ![stars](https://img.shields.io/github/stars/milesgurule-png/obsidian-vault-atom?style=social) |
+| [**Forge AI**](https://github.com/milesgurule-png/forge-ai) | A private AI that answers from your notes, fully local | ![stars](https://img.shields.io/github/stars/milesgurule-png/forge-ai?style=social) |
+
+Issues labeled **good first issue** are open on both if you want to contribute.
+
 ### 🔨 Currently building
+- **A cloud-security alert triage tool** (private for now): it cuts alert noise while keeping critical, exposed and actively exploited issues on screen, tested on 21,000+ real vulnerability findings
 - Getting **Vault Atom** into Obsidian's Community Plugins store
-- **A compliance-tech product** in validation (more soon)
 - **Forge AI's "vault brain"**: local RAG over my own research notes
 
 ### 📚 Currently learning
@@ -27,7 +35,7 @@ What I built, what broke, and what I learned → **[read the devlog](https://mil
 ### 🛠 Stack
 `JavaScript` `Node.js` `React` `Three.js` `Python` `Claude agents` `Ollama / MLX` `REST APIs` `DNS & email deliverability` `GSAP` `Obsidian`
 
-### 📫 Contact
-Reach out through GitHub.
+### 📫 Follow along
+I ship something new most weeks. **Follow me here** to see what's next, and open an issue or a Discussion on any repo to reach me.
 
 <sub>© 2026 Miles Gurule. Projects shown are all rights reserved unless a repo says otherwise.</sub>
