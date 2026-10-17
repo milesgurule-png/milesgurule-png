@@ -16,8 +16,8 @@
 ### ⭐ Open source (try them, star them, break them)
 | Project | What it does | |
 |---|---|---|
-| [**Vault Atom**](https://github.com/milesgurule-png/obsidian-vault-atom) | Your Obsidian vault as a 3D atom | ![stars](https://img.shields.io/github/stars/milesgurule-png/obsidian-vault-atom?style=social) |
-| [**Forge AI**](https://github.com/milesgurule-png/forge-ai) | A private AI that answers from your notes, fully local | ![stars](https://img.shields.io/github/stars/milesgurule-png/forge-ai?style=social) |
+| [**Vault Atom**](https://github.com/milesgurule-png/obsidian-vault-atom) | Your Obsidian vault as a 3D atom | [⭐ Star](https://github.com/milesgurule-png/obsidian-vault-atom) |
+| [**Forge AI**](https://github.com/milesgurule-png/forge-ai) | A private AI that answers from your notes, fully local | [⭐ Star](https://github.com/milesgurule-png/forge-ai) |
 
 Issues labeled **good first issue** are open on both if you want to contribute.
 
