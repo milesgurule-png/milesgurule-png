@@ -16,7 +16,7 @@
 - 📈 **Lead generation & outreach system**: an AI lead-gen agent, website auditing, lead scoring, and cold-email infrastructure at scale.
 - 🧠 **[Forge AI](https://github.com/milesgurule-png/forge-ai)**: my own open-source assistant that runs on my laptop and answers from my notes with citations (local RAG, Apache-2.0).
 - ⚛️ **[Vault Atom for Obsidian](https://github.com/milesgurule-png/obsidian-vault-atom)**: an open-source plugin that shows any Obsidian vault as a 3D atom (MIT).
-- 🎯 **[Triage Scorecard](https://github.com/milesgurule-png/triage-scorecard)**: scores any vulnerability-prioritization method against real CISA KEV and EPSS data, with no future data (MIT). Its daily **KEV Watch** found that 6 of 9 newly exploited CVEs had EPSS under 0.1 the day before.
+- 🎯 **[Triage Scorecard](https://github.com/milesgurule-png/triage-scorecard)**: scores any vulnerability-prioritization method against real CISA KEV and EPSS data, with no future data (MIT). Its daily **KEV Watch** shows how many newly exploited CVEs EPSS missed the day before (on Oct 18, 2026: 6 of 9).
 
 ### ⭐ Open source (try them, star them, break them)
 | Project | What it does | |
