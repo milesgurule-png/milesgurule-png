@@ -11,7 +11,7 @@
 </p>
 <sub>Left: <a href="https://github.com/milesgurule-png/event-horizon"><b>event horizon</b></a>, a black hole ray-traced live in your browser (<a href="https://milesgurule-png.github.io/event-horizon/">try it</a>). Right: my AI agent team as a <a href="https://milesgurule-png.github.io/forge-showcase/lab/">3D research lab</a>.</sub>
 
-### 🚀 What I've built (since May 2026, ~100 hours with AI)
+### 🚀 What I've built (since May 2026, ~200 hours with AI)
 - 🕳️ **[event horizon](https://github.com/milesgurule-png/event-horizon)** (new, open source): a real black hole simulation in one HTML tag. Every pixel traces a ray of light through curved spacetime, live on your GPU: gravitational lensing, relativistic beaming, a "Dive in" button. Zero dependencies, 18 KB. → **[Live demo](https://milesgurule-png.github.io/event-horizon/)**
 - 💼 **First client website: The Garrett Company**, a 3rd-generation real estate brokerage in Franklin, TN (est. 1947). It has cinematic Nashville drone video, a self-drawing legacy timeline, a gallery of 21 recent sales, and a typo-tolerant Middle Tennessee search covering 283 ZIPs. → **[Live preview](https://garrett-company-site.milesgurule.workers.dev/)**
 - 🕳️ **[Forge Labs studio site](https://forgelabs-agency-site.milesgurule.workers.dev/)**: a WebGL spark world that forges the wordmark and re-forges it into your company name, then a **black hole ray-traced live in your browser**: every pixel follows a beam of light through curved space, and as you scroll the site's sparks spiral in and the camera dives into the shadow. Tuned to hold ~60 fps on a Retina laptop.
