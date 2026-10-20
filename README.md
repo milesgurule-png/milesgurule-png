@@ -6,12 +6,13 @@
 > 🔴 **Live daily:** [KEV Watch](https://github.com/milesgurule-png/triage-scorecard#-kev-watch-updates-daily) checks whether EPSS saw each newly exploited vulnerability coming
 
 <p>
-  <a href="https://forgelabs-agency-site.milesgurule.workers.dev/"><img src="https://raw.githubusercontent.com/milesgurule-png/forge-showcase/main/screenshots/black-hole.gif" width="49%" alt="A black hole ray-traced live in the browser, swallowing the Forge Labs site's sparks as you scroll"></a>
+  <a href="https://milesgurule-png.github.io/event-horizon/"><img src="https://raw.githubusercontent.com/milesgurule-png/event-horizon/main/media/dive.gif" width="49%" alt="event horizon: diving toward a black hole ray-traced live in the browser"></a>
   <a href="https://milesgurule-png.github.io/forge-showcase/lab/"><img src="https://raw.githubusercontent.com/milesgurule-png/forge-showcase/main/screenshots/science-lab.gif" width="49%" alt="Forge Labs Science Lab: an AI agent team as scientists in a 3D research facility"></a>
 </p>
-<sub>Left: a black hole ray-traced live on your GPU, on the <a href="https://forgelabs-agency-site.milesgurule.workers.dev/">Forge Labs site</a>. Right: my AI agent team as a <a href="https://milesgurule-png.github.io/forge-showcase/lab/">3D research lab</a>.</sub>
+<sub>Left: <a href="https://github.com/milesgurule-png/event-horizon"><b>event horizon</b></a>, a black hole ray-traced live in your browser (<a href="https://milesgurule-png.github.io/event-horizon/">try it</a>). Right: my AI agent team as a <a href="https://milesgurule-png.github.io/forge-showcase/lab/">3D research lab</a>.</sub>
 
 ### 🚀 What I've built (since May 2026, ~100 hours with AI)
+- 🕳️ **[event horizon](https://github.com/milesgurule-png/event-horizon)** (new, open source): a real black hole simulation in one HTML tag. Every pixel traces a ray of light through curved spacetime, live on your GPU: gravitational lensing, relativistic beaming, a "Dive in" button. Zero dependencies, 18 KB. → **[Live demo](https://milesgurule-png.github.io/event-horizon/)**
 - 💼 **First client website: The Garrett Company**, a 3rd-generation real estate brokerage in Franklin, TN (est. 1947). It has cinematic Nashville drone video, a self-drawing legacy timeline, a gallery of 21 recent sales, and a typo-tolerant Middle Tennessee search covering 283 ZIPs. → **[Live preview](https://garrett-company-site.milesgurule.workers.dev/)**
 - 🕳️ **[Forge Labs studio site](https://forgelabs-agency-site.milesgurule.workers.dev/)**: a WebGL spark world that forges the wordmark and re-forges it into your company name, then a **black hole ray-traced live in your browser**: every pixel follows a beam of light through curved space, and as you scroll the site's sparks spiral in and the camera dives into the shadow. Tuned to hold ~60 fps on a Retina laptop.
 - 🧪 **Forge Labs Science Lab**: my AI agent team visualized as scientists in a 3D research facility. → **[Live demo](https://milesgurule-png.github.io/forge-showcase/lab/)**
@@ -24,11 +25,12 @@
 ### ⭐ Open source (try them, star them, break them)
 | Project | What it does | |
 |---|---|---|
+| [**event horizon**](https://github.com/milesgurule-png/event-horizon) | A ray-traced black hole in one HTML tag | [⭐ Star](https://github.com/milesgurule-png/event-horizon) |
 | [**Vault Atom**](https://github.com/milesgurule-png/obsidian-vault-atom) | Your Obsidian vault as a 3D atom | [⭐ Star](https://github.com/milesgurule-png/obsidian-vault-atom) |
 | [**Forge AI**](https://github.com/milesgurule-png/forge-ai) | A private AI that answers from your notes, fully local | [⭐ Star](https://github.com/milesgurule-png/forge-ai) |
 | [**Triage Scorecard**](https://github.com/milesgurule-png/triage-scorecard) | How good is your vulnerability triage? Real KEV + EPSS data | [⭐ Star](https://github.com/milesgurule-png/triage-scorecard) |
 
-Issues labeled **good first issue** are open on all three if you want to contribute. First-time contributors welcome, and I review every PR.
+Issues labeled **good first issue** are open on Vault Atom, Forge AI and Triage Scorecard if you want to contribute. First-time contributors welcome, and I review every PR.
 
 ### 🔨 Currently building
 - **A cloud-security alert triage tool** (private for now): it cuts alert noise while keeping critical, exposed and actively exploited issues on screen, tested on 21,000+ real vulnerability findings
